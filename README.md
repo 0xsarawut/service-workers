@@ -48,7 +48,7 @@ To get started contributing, run `yarn start`, which will run a webpack-devserve
 * [Jonathan Creamer](https://github.com/jcreamer898)
 * [Brad Erickson](https://github.com/13rac1)
 * [Bryan Lee](https://github.com/bryclee)
-* [Jimmy King](https://github.com/10xlacroixdrinker)
+* [Jamie King](https://github.com/10xlacroixdrinker)
 * [Domingos Martins](https://github.com/DomingosMartins)
 * [André Naves](https://github.com/andrefgneves)
 * [kontrollanten](https://github.com/kontrollanten)
